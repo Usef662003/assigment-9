@@ -1,0 +1,81 @@
+body{
+    background-color:#1a1a18 ;
+}
+header {
+
+    .container{
+        h1{
+            font-family: fantasy;
+            font-size: 80px;
+            font-weight: 500;
+            color: #dff2eb;
+            margin: 54px 0;
+
+        }
+        h4{
+            font-family: cursive;
+            font-size: 35px;
+            font-weight: 400;
+            color: #dff2eb;
+            margin: 35px 0;
+        }
+        button{
+            padding: 20px 50px;
+            font-family: cursive;
+            color: #1a1a18;
+            font-size: 20px;
+            transition: all 0.5s 0s;
+            border: 0px solid transparent;
+            border-radius: 40px;
+            background-color: #dff2eb;
+        }
+        button:hover{
+            background-color: #0c7d66;
+        }
+        h5{
+            font-family: cursive;
+            font-size: 25px;
+            font-weight: 400;
+            color: #0c7d66;
+            margin: 35px 0;
+        }
+        h6{
+            font-family: cursive;
+            font-size: 25px;
+            font-weight: 400;
+            color: #0c7d66;
+            margin: 35px 0;
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
